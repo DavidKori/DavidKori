@@ -3,48 +3,153 @@
 <div align="center">
 
 <!-- Animated Name -->
-<h1 style="
-    background: linear-gradient(90deg, #ff0000, #ff8800, #ffff00, #00ff00, #00ffff, #0000ff, #ff00ff, #ff0000);
-    background-size: 400% 100%;
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
-    animation: gradientMove 8s linear infinite;
-    font-size: 3rem;
-    font-weight: bold;
-    margin-bottom: 10px;
-">David Kori</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=David+Kori;Full-Stack+Developer" />
 
-<h3 style="color: #00ff88; margin-top: 0;">Full-Stack Developer from Kenya 🇰🇪</h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=MERN+%7C+React+%7C+Node+%7C+TypeScript;Building+scalable+web+applications;Turning+ideas+into+reality)
+<h3 style="color: "green"; margin-top: 0;">Full-Stack Developer from Kenya 🇰🇪</h3>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=570&lines=MERN+%7C+React+%7C+Node+%7C+JavaScript+%7C+Express;Building+scalable+web+applications;Turning+ideas+into+reality)
 
 </div>
 
 ---
+
+## 👨‍💻 About Me
+
+> *"Building the future, one line of code at a time"*
+
+- 🔭 **Currently working on**: Forex Management Systems SaaS
+- 🌱 **Currently learning**: Advanced Tailwind CSS & Node.js optimization
+- 👯 **Looking to collaborate on**: Open-source MERN stack projects
+- 🤔 **Looking for help with**: Scaling microservices architecture
+- 💬 **Ask me about**: React, Node.js, MongoDB, or full-stack development
+- 📫 **How to reach me**: [mutugidavid37@gmail.com](mailto:mutugidavid37@gmail.com)
+- ⚡ **Fun fact**: I can debug CSS in my sleep but still Google how to center a div!
+
+---
+
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Stats Row 1 -->
 <a href="https://github.com/DavidKori">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidKori&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKori&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DavidKori&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DavidKori&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=8" alt="Top Languages" />
 </a>
 
 <br/>
 
-<!-- Stats Row 2 -->
 <a href="https://github.com/DavidKori">
   <img height="180em" src="https://streak-stats.demolab.com?user=DavidKori&theme=dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&dates=FFFFFF" alt="GitHub Streak" />
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=DavidKori&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    
+![Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidKori&theme=github_dark)
+
 </a>
 
 </div>
 
----
 
+---
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="66" height="36" margin="66" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
+</a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" />
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" />
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" />
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" />
+</a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" />
+</a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" />
+</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" />
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" />
+</a>
+<a href="https://render.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" />
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" />
+</a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" />
+</a>
+<a href="https://wordpress.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" />
+</a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" />
+</a>
+</p>
+
+### Socials
+
+<p align="left"> 
+    <a href="https://www.github.com/DavidKori" target="_blank" rel="noreferrer"> 
+        <picture> 
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"                 /> 
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />               <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"                         title="GitHub" /> 
+        </picture>
+    </a>
+    <a href="https://www.x.com/mutugidavid37" target="_blank" rel="noreferrer">
+        <picture> 
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-                        dark.svg" /> 
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter"                         title="Twitter" />
+        </picture> 
+    </a> 
+    <a href="https://www.linkedin.com/in/david-mutugi-b664b02aa/" target="_blank" rel="noreferrer"> 
+        <picture> 
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-                        dark.svg" /> 
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"                 />   
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"                        title="LinkedIn" /> 
+        </picture> 
+    </a> 
+    <a href="https://www.youtube.com/@koridevifys?si=AORHjxafXI_0V8KE" target="_blank" rel="noreferrer"> 
+        <picture> 
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-                        dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />  
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube"                         title="YouTube" /> 
+        </picture>
+    </a> 
+    <a href="https://discord.com/users/WtWQkpSp" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-                        dark.svg" /> 
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord"                         title="Discord" /> 
+        </picture>
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=61556202328167" target="_blank" rel="noreferrer"> 
+        <picture> 
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-                        dark.svg" /> 
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"                     /> 
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook"                         title="Facebook" />             
+        </picture> 
+    </a>
+</p>
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -53,7 +158,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=react&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
 
@@ -83,7 +188,10 @@
 <div align="center">
 
 <!-- GitHub Snake Animation -->
-<img src="https://raw.githubusercontent.com/DavidKori/DavidKori/output/snake.svg" alt="Snake animation" width="100%" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/DavidKori/DavidKori/output/snake.svg" alt="Snake animation" />
+
 
 <!-- Contribution Graph -->
 <a href="https://github.com/DavidKori">
@@ -94,47 +202,51 @@
 
 ---
 
-## 👨‍💻 About Me
 
-> *"Building the future, one line of code at a time"*
-
-- 🔭 **Currently working on**: Forex Management Systems SaaS
-- 🌱 **Currently learning**: Advanced Tailwind CSS & Node.js optimization
-- 👯 **Looking to collaborate on**: Open-source MERN stack projects
-- 🤔 **Looking for help with**: Scaling microservices architecture
-- 💬 **Ask me about**: React, Node.js, MongoDB, or full-stack development
-- 📫 **How to reach me**: [mutugidavid37@gmail.com](mailto:mutugidavid37@gmail.com)
-- ⚡ **Fun fact**: I can debug CSS in my sleep but still Google how to center a div!
-
----
 
 ## 📫 Connect With Me
 
-<div align="center">
-
-<a href="https://davidkori.github.io/portfolio.com/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/david-mutugi-b664b02aa/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://twitter.com/mutugidavid37">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://youtube.com/@koridevifys">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-<a href="https://www.instagram.com/kooridavid/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://discord.gg/WtWQkpSp">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
-<a href="mailto:mutugidavid37@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-</div>
+<p align="left"> 
+    <a href="https://www.github.com/DavidKori" target="_blank" rel="noreferrer"> 
+        <picture> 
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"                 /> 
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />               <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"                         title="GitHub" /> 
+        </picture>
+    </a>
+    <a href="https://www.x.com/mutugidavid37" target="_blank" rel="noreferrer">
+        <picture> 
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-                        dark.svg" /> 
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter"                         title="Twitter" />
+        </picture> 
+    </a> 
+    <a href="https://www.linkedin.com/in/david-mutugi-b664b02aa/" target="_blank" rel="noreferrer"> 
+        <picture> 
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-                        dark.svg" /> 
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"                 />   
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"                        title="LinkedIn" /> 
+        </picture> 
+    </a> 
+    <a href="https://www.youtube.com/@koridevifys?si=AORHjxafXI_0V8KE" target="_blank" rel="noreferrer"> 
+        <picture> 
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-                        dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />  
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube"                         title="YouTube" /> 
+        </picture>
+    </a> 
+    <a href="https://discord.com/users/WtWQkpSp" target="_blank" rel="noreferrer">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-                        dark.svg" /> 
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />              <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord"                         title="Discord" /> 
+        </picture>
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=61556202328167" target="_blank" rel="noreferrer"> 
+        <picture> 
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-                        dark.svg" /> 
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"                     /> 
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook"                         title="Facebook" />             
+        </picture> 
+    </a>
+</p>
 
 ---
 
@@ -156,10 +268,3 @@
 
 </div>
 
-<style>
-@keyframes gradientMove {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-}
-</style>
